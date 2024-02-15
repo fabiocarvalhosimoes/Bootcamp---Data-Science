@@ -2,7 +2,7 @@
   <h1>"👋 Welcome to my Portfolio Bootcamp Data Science"</h1>
 </div>
 
-# ✨ Introdução à Ciência de Dados e Suas Aplicações ✨
+# ✨ Ciência de Dados e Suas Aplicações ✨
 
 
 🚀 Este repositório é dedicado a proporcionar uma introdução abrangente à Ciência de Dados e suas diversas aplicações. Aqui, você encontrará uma variedade de recursos, códigos e projetos práticos aplicados que visam fornecer uma base sólida para minha formação na área de Data Science.
