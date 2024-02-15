@@ -35,12 +35,12 @@
 
 
 
-Caso desejar!
 
 
 ### Como Contribuir:
 
-Sinta-se à vontade para contribuir com correções, adições ou novos projetos. Abra problemas para discussões ou sugira melhorias. Acredito que o aprendizado é um esforço colaborativo, e sua participação é valorizada.
+Sinta-se à vontade para contribuir com correções, adições ou novos projetos. Abra problemas para discussões ou sugira melhorias. Acredito que o aprendizado é um esforço colaborativo, e sua participação é valorizada. 
+Caso desejar!
 
 E divirta-se explorando o mundo da Ciência de Dados neste Bootcamp! 
 
