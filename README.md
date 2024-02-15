@@ -1,14 +1,13 @@
 ﻿<div align="center">
-  <h1>"Bootcamp-Data-Science"</h1>
+  <h1>"👋 Welcome to my Portfolio Bootcamp Data Science"</h1>
 </div>
 
-# Introdução à Ciência de Dados e Suas Aplicações
+# ✨ Introdução à Ciência de Dados e Suas Aplicações ✨
 
-**Bem-vindo ao Bootcamp de Data Science!**
 
-Este repositório é dedicado a proporcionar uma introdução abrangente à Ciência de Dados e suas diversas aplicações. Aqui, você encontrará uma variedade de recursos, códigos e projetos práticos aplicados que visam fornecer uma base sólida para minha formação na área de Data Science.
+🚀 Este repositório é dedicado a proporcionar uma introdução abrangente à Ciência de Dados e suas diversas aplicações. Aqui, você encontrará uma variedade de recursos, códigos e projetos práticos aplicados que visam fornecer uma base sólida para minha formação na área de Data Science.
 
-### Objetivos do Bootcamp:
+### Objetivos do Bootcamp 🌐:
 
 1. **Aprender os Fundamentos:** Exploro os conceitos fundamentais da Ciência de Dados, incluindo estatísticas, manipulação de dados, visualização e interpretação de resultados.
 
@@ -18,13 +17,18 @@ Este repositório é dedicado a proporcionar uma introdução abrangente à Ciê
 
 4. **Colaboração e Compartilhamento:** Estou aberto à colaboração e ao compartilhamento de conhecimentos incentivando a participação ativa, discussões e sugestões para criar uma comunidade de aprendizado dinâmica.
 
-### Estrutura do Repositório:
+### Estrutura do Repositório 💻:
 
 - **Notebooks:** Aplico Jupyter Notebooks detalhadamente abordando tópicos específicos, desde estatísticas descritivas até implementações de modelos de machine learning.
 
 - **Projetos:** Exploro projetos práticos que desafiaram minhas habilidades e permitiram a aplicação direta dos conceitos aprendidos.
 
-- **Recursos Adicionais:** Descubra links, artigos e bibliografias recomendadas nesta minha fomração para aprofundar seu conhecimento. 
+- **Recursos Adicionais:** Descubra links, artigos e bibliografias recomendadas nesta minha fomração para aprofundar seu conhecimento.
+
+
+<!-- **fabiocarvalhosimoes/Fabio-C-Simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> 
 
 
 Caso desejar!
